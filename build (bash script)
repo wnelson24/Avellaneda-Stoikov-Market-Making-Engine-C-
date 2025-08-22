@@ -1,0 +1,7 @@
+
+mkdir -p build
+clang++ -std=c++20 -O2 src/lob_single.cpp -o build/lob_demo
+./build/lob_demo
+
+
+#run this in Terminal
